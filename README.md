@@ -27,22 +27,22 @@ Here are the technologies used in this project.
 ## How to use
  
 ### 1 - Spring Boot Admin Home Page.
-![Spring Boot Admin Home Page Sreen](https://github.com/cfrdocarmo/Projects-with-Spring-Boot-Spring-Security-Spring-Boot-Admin-Swagger-Clean-Code/blob/master/readme_imagens/ScreenshotSwaggerInitial.png)
+![Spring Boot Admin Home Page Sreen](https://github.com/cfrdocarmo/Projects-with-Spring-Boot-Spring-Security-Spring-Boot-Admin-Swagger-Clean-Code/blob/master/readme_imagens/paginaInicialSpringBootAdmin.png)
 
 ### 2 - Spring Boot Admin Application Dashboard.
-![Spring Boot Admin Application Dashboard Screen](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code/blob/master/readme_imagens/paginaInicialSpringBootAdmin.png)
+![Spring Boot Admin Application Dashboard Screen](https://github.com/cfrdocarmo/Projects-with-Spring-Boot-Spring-Security-Spring-Boot-Admin-Swagger-Clean-Code/blob/master/readme_imagens/paginaInicialDaAplicacao.png)
 
 ### 3 - Swagger Application Panel.
-![Swagger Application Panel](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code/blob/master/readme_imagens/ScreenshotSwaggerInitial.png)
+![Swagger Application Panel](https://github.com/cfrdocarmo/Projects-with-Spring-Boot-Spring-Security-Spring-Boot-Admin-Swagger-Clean-Code/blob/master/readme_imagens/ScreenshotSwaggerInitial.png)
  
 ### 4 - Swagger Methods Panel.
-![Swagger Methods Panel](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code/blob/master/readme_imagens/ScreenshotSwaggerMethodsGet.png) 
+![Swagger Methods Panel](https://github.com/cfrdocarmo/Projects-with-Spring-Boot-Spring-Security-Spring-Boot-Admin-Swagger-Clean-Code/blob/master/readme_imagens/ScreenshotSwaggerMethodsGet.png) 
  
 ### 5 - Get Swagger Test Methods Panel.
-![Get Swagger Test Methods Panel](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code/blob/master/readme_imagens/ScreenshotSwaggerTestGet.png)
+![Get Swagger Test Methods Panel](https://github.com/cfrdocarmo/Projects-with-Spring-Boot-Spring-Security-Spring-Boot-Admin-Swagger-Clean-Code/blob/master/readme_imagens/ScreenshotSwaggerTestGet.png)
 
 ### 6 - Test Methods Dashboard Get Swagger Response.
-![Test Methods Dashboard Get Swagger Response](https://github.com/cfrdocarmo/Projects-with-Spring-Swagger-Spring-Boot-Admin-Design-Patterns-Clean-Code/blob/master/readme_imagens/ScreenshotSwaggerResponseTestGet.png)
+![Test Methods Dashboard Get Swagger Response](https://github.com/cfrdocarmo/Projects-with-Spring-Boot-Spring-Security-Spring-Boot-Admin-Swagger-Clean-Code/blob/master/readme_imagens/ScreenshotSwaggerResponseTestGet.png)
 ## Features
  
   - Spring Boot.
